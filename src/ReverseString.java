@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// reverse a string using recursion
 public class ReverseString {
     private static void swap(char[] c, int l, int r){
         char temp = c[l];
