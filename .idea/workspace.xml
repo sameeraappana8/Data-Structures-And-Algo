@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="886e52a7-733e-4cba-842d-ed9c6a0dfb0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterleavingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeypadCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplaceDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgo/InterleavingStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgo/InterleavingStrings.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterleavingStrings">
+  <component name="RunManager" selected="Application.ReplaceDigits">
     <configuration name="AllBinaryStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AllBinaryStrings" />
       <module name="DataStructuresAndAlgo" />
@@ -58,6 +60,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KeypadCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeypadCombinations" />
+      <module name="DataStructuresAndAlgo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceDigits" />
+      <module name="DataStructuresAndAlgo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="DataStructuresAndAlgo" />
@@ -67,6 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplaceDigits" />
+        <item itemvalue="Application.KeypadCombinations" />
         <item itemvalue="Application.InterleavingStrings" />
         <item itemvalue="Application.AllBinaryStrings" />
         <item itemvalue="Application.ReverseString" />
@@ -91,21 +109,37 @@
       <screen x="1440" y="0" width="1920" height="1200" />
     </state>
     <state x="2000" y="265" key="#Project_Structure/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591807263644" />
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1591820187686">
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1591823549020">
       <screen x="1440" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591820187686" />
-    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1591820187685">
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823549020" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1591823549018">
       <screen x="1440" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591820187685" />
-    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1591820187684">
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823549018" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1591823549016">
       <screen x="1440" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591820187684" />
-    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1591820187685">
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823549016" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1591823549019">
       <screen x="1440" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591820187685" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823549019" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1591823511755">
+      <screen x="1440" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823511755" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1591823511753">
+      <screen x="1440" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823511753" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1591823511752">
+      <screen x="1440" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823511752" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1591823511754">
+      <screen x="1440" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1200@1440.0.1920.1200" timestamp="1591823511754" />
   </component>
 </project>
